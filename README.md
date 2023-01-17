@@ -6,7 +6,7 @@ Have you ever craved to cook something with ingredients at hand but could not ge
 
 Recipick is a web - application wherein one can enter the ingredient and get the recipe for it. It will provide both written and video processes for the dish. The app will contain around 100+ recipes. 
 
-# TechStacks
+# Tool Chains
 
 1. React 
 2. REST API
